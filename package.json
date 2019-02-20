@@ -1,0 +1,28 @@
+{
+  "name": "flex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flexservercli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preferGlobal": true,
+  "bin": "./flexservercli.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpit-absyadav/module_cli.git"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.2.1",
+    "shelljs": "^0.8.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arpit-absyadav/module_cli/issues"
+  },
+  "homepage": "https://github.com/arpit-absyadav/module_cli#readme"
+}
